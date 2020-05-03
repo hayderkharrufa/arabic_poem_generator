@@ -1,5 +1,5 @@
 # coding: utf-8
-# auther: Haydara  https://www.youtube.com/haydara
+# author: Haydara  https://www.youtube.com/haydara
 
 import pickle
 
