@@ -1,4 +1,4 @@
-# Arabic poems generator
+# Arabic poem generator
 
 Generating Arabic poems using Markov chains.  
 Check out this [YouTube video]() (**in Arabic**) to see how I built this project.
