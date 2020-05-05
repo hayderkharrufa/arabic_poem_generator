@@ -24,7 +24,7 @@ def rhymes_with(word):
     return rhymes
 
 def rhymes_with_last_n_chars(word, n):
-    if word not in ['الله', 'والله', 'بالله', 'لله', 'تالله', 'فالله]:
+    if word not in ['الله', 'والله', 'بالله', 'لله', 'تالله', 'فالله']:
         word = word.replace('ّ', '')
     ending = word[-n:]
     rhymes = []
