@@ -7,7 +7,6 @@ Check out this [YouTube video](https://youtu.be/Dnx6bE4Nwyo) (**in Arabic**) to 
 
 ```
 pip install pandas
-pip install pickle
 pip install markovify
 pip install tqdm
 ```
