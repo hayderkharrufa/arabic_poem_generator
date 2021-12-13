@@ -2,7 +2,7 @@
 # author: Haydara  https://www.youtube.com/haydara
 
 import pickle
-
+#test
 with open('vocabs.pkl', 'rb') as pickle_load:
     voc_list = pickle.load(pickle_load)
     
