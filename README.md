@@ -22,7 +22,7 @@ Download the [Arabic poetry dataset](https://www.kaggle.com/ahmedabelal/arabic-p
 
 ## Authors
 
-* **Hayder Kharrufa** - *Initial work* - 
+* **Hayder Kharrufa**
 
 ## License
 
